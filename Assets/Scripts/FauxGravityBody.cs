@@ -22,4 +22,5 @@ public class FauxGravityBody : MonoBehaviour
 		// Allow this body to be influenced by planet's gravity
 		planet.Attract(rigidbody);
 	}
+
 }
