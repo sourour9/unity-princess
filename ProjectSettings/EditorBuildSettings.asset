@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PlanetMenu.unity
     guid: 7c20e5de2a2379a408b8b26a0c3e67bb
+  - enabled: 1
+    path: Assets/Scenes/petite_princesse.unity
+    guid: de4ea441197cfe442a726fdf9122333b
   m_configObjects: {}
