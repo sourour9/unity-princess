@@ -70,3 +70,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Scenes/enter_exit_car.unity
+Assets/animation/X Bot@Idle.fbx.meta
+Assets/animation/entre&exitCar.controller

@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: facial
+    m_Weight: 0
+  - m_Path: pico
+    m_Weight: 0
+  - m_Path: pico/body
+    m_Weight: 0
+  - m_Path: pico/body/body_base
+    m_Weight: 1
+  - m_Path: pico/body/body_hand
+    m_Weight: 1
+  - m_Path: pico/body/body_leg
+    m_Weight: 1
+  - m_Path: pico/boots
+    m_Weight: 0
+  - m_Path: pico/boots/boots_left
+    m_Weight: 1
+  - m_Path: pico/boots/boots_main
+    m_Weight: 1
+  - m_Path: pico/boots/boots_right
+    m_Weight: 1
+  - m_Path: pico/clothe
+    m_Weight: 0
+  - m_Path: pico/clothe/clothe_arm_belt
+    m_Weight: 1
+  - m_Path: pico/clothe/clothe_left_arm
+    m_Weight: 1
+  - m_Path: pico/clothe/clothe_pants
+    m_Weight: 1
+  - m_Path: pico/clothe/clothe_pants_belt
+    m_Weight: 1
+  - m_Path: pico/clothe/clothe_pants_bracket
+    m_Weight: 1
+  - m_Path: pico/clothe/clothe_right_arm
+    m_Weight: 1
+  - m_Path: pico/clothe/clothe_shirt
+    m_Weight: 1
+  - m_Path: pico/face
+    m_Weight: 0
+  - m_Path: pico/face/face_base
+    m_Weight: 1
+  - m_Path: pico/face/face_ear
+    m_Weight: 0
+  - m_Path: pico/goggle
+    m_Weight: 0
+  - m_Path: pico/goggle/goggle_base
+    m_Weight: 1
+  - m_Path: pico/goggle/goggle_belt
+    m_Weight: 1
+  - m_Path: pico/goggle/goggle_lens
+    m_Weight: 1
+  - m_Path: pico/hair
+    m_Weight: 0
+  - m_Path: pico/hair/hair_back
+    m_Weight: 1
+  - m_Path: pico/hair/hair_front_a
+    m_Weight: 1
+  - m_Path: pico/hair/hair_front_b
+    m_Weight: 1
+  - m_Path: pico/hair/hair_tail_01
+    m_Weight: 1
+  - m_Path: pico/hair/hair_tail_02
+    m_Weight: 1
+  - m_Path: pico/hair/hair_tail_03
+    m_Weight: 1
+  - m_Path: pico/hair/hair_tail_04
+    m_Weight: 1
+  - m_Path: pico/jacket
+    m_Weight: 0
+  - m_Path: pico/jacket/jacket_base
+    m_Weight: 1
+  - m_Path: pico/jacket/jacket_fastener
+    m_Weight: 1
+  - m_Path: pico/jacket/jacket_fastener_top
+    m_Weight: 1
+  - m_Path: pico/jacket/jacket_sub
+    m_Weight: 1
+  - m_Path: pico/picolabo
+    m_Weight: 0
+  - m_Path: pico/picolabo/picolabo_base
+    m_Weight: 1
+  - m_Path: pico/picolabo/picolabo_metal
+    m_Weight: 1
+  - m_Path: root
+    m_Weight: 0
+  - m_Path: root/Hips
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagFastenerHead
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagFastenerNeck
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagLeftHand01
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagLeftHand01/BagLeftHand02
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagRightHand01
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagRightHand01/BagRightHand02
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagSpine
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagSpine/BagHip
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagSpine/BagHip/BagLeftLeg01
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagSpine/BagHip/BagLeftLeg01/BagLeftLeg02
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagSpine/BagHip/BagRightLeg01
+    m_Weight: 1
+  - m_Path: root/Hips/BagHead/BagNeck/BagSpine/BagHip/BagRightLeg01/BagRightLeg02
+    m_Weight: 1
+  - m_Path: root/Hips/LeftUpLeg
+    m_Weight: 1
+  - m_Path: root/Hips/LeftUpLeg/LeftLeg
+    m_Weight: 1
+  - m_Path: root/Hips/LeftUpLeg/LeftLeg/BootsLeft01
+    m_Weight: 1
+  - m_Path: root/Hips/LeftUpLeg/LeftLeg/BootsLeft01/BootsLeft02
+    m_Weight: 1
+  - m_Path: root/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 1
+  - m_Path: root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToe
+    m_Weight: 1
+  - m_Path: root/Hips/RightUpLeg
+    m_Weight: 1
+  - m_Path: root/Hips/RightUpLeg/RightLeg
+    m_Weight: 1
+  - m_Path: root/Hips/RightUpLeg/RightLeg/BootsRight01
+    m_Weight: 1
+  - m_Path: root/Hips/RightUpLeg/RightLeg/BootsRight01/BootsRight02
+    m_Weight: 1
+  - m_Path: root/Hips/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 1
+  - m_Path: root/Hips/RightUpLeg/RightLeg/RightFoot/RightToe
+    m_Weight: 1
+  - m_Path: root/Hips/Spine
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/FastenerFront
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/LeftBust
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/RightBust
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/HoodMain01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/HoodMain01/HoodMain02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/HoodSubCenter
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/HoodSubLeftA01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/HoodSubLeftB01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/HoodSubRightA01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/HoodSubRightB01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackA01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackA01/HairBackA02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackA01/HairBackA02/HairBackA03
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackA01/HairBackA02/HairBackA03/HairBackA04
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackB01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackB01/HairBackB02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackB01/HairBackB02/HairBackB03
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackB01/HairBackB02/HairBackB03/HairBackB04
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackC01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackC01/HairBackC02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackC01/HairBackC02/HairBackC03
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackC01/HairBackC02/HairBackC03/HairBackC04
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackC01/HairBackC02/HairBackC03/HairBackC04/HairBackC05
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackC01/HairBackC02/HairBackC03/HairBackC04/HairBackC05/HairBackC06
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackC01/HairBackC02/HairBackC03/HairBackC04/HairBackC05/HairBackC06/HairBackC07
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackD01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackD01/HairBackD02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackD01/HairBackD02/HairBackD03
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairBackD01/HairBackD02/HairBackD03/HairBackD04
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairLeftA01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairLeftA01/HairLeftA02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairLeftB01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairLeftB01/HairLeftB02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairLeftC01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairRightA01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairRightA01/HairRightA02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairRightB01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairRightB01/HairRightB02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/Hair/HairRightC01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/LeftEye
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/Neck/Head/RightEye
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/StringLeft01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/StringLeft01/StringLeft02
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/StringRight01
+    m_Weight: 1
+  - m_Path: root/Hips/Spine/Spine01/Spine02/StringRight01/StringRight02
+    m_Weight: 1

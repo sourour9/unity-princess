@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DialogueTrigger : MonoBehaviour
+{
+  public Dialogue dialogue;
+    public GameObject DialoquePanel;
+
+    public void TriggerDialogue()
+    {
+        DialoquePanel.SetActive(true);
+        FindObjectOfType<DialogueManager>().StartDialogue(dialogue);
+    }
+}

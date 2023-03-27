@@ -4,16 +4,16 @@ using UnityEngine;
 using TMPro;
 public class KeyInventoryUI : MonoBehaviour
 {
-   private TextMeshProUGUI diamondText;
+   private TextMeshProUGUI keyText;
 
     // Start is called before the first frame update
     void Start()
     {
-        diamondText = GetComponent<TextMeshProUGUI>();
+        keyText = GetComponent<TextMeshProUGUI>();
     }
 
     public void UpdateDiamondText(PlayerInventory playerInventory)
     {
-        diamondText.text = playerInventory.NumberOfKeys.ToString();
+        keyText.text = playerInventory.NumberOfKeys.ToString();
     }
 }

@@ -11,13 +11,16 @@ public enum PanelType
     Menu,
     Credits,
     Information,
+    Dialogue,
 }
 public class MenuController : MonoBehaviour
 {
+    
     [Header("Panels")]
     [SerializeField] private List<Panel> panels = new List<Panel>();
     private Dictionary<PanelType, Panel> panelDictionary = new Dictionary<PanelType, Panel>();
     private GameManager gameManager;
+
 
     private void Start()
     {
@@ -28,6 +31,7 @@ public class MenuController : MonoBehaviour
         }
        
         OpenOnePanel(PanelType.Menu);
+        
        
     }
 
@@ -53,7 +57,7 @@ public class MenuController : MonoBehaviour
 
     public void OpenPanel(PanelType panelType)
     {
-        
         OpenOnePanel(panelType);
+       
     }
 }

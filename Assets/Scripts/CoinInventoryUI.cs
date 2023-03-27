@@ -11,6 +11,7 @@ public class CoinInventoryUI : MonoBehaviour
     void Start()
     {
         diamondText = GetComponent<TextMeshProUGUI>();
+
     }
 
     public void UpdateDiamondText(PlayerInventory playerInventory)
